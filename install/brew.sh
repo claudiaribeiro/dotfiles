@@ -12,36 +12,34 @@ brew upgrade
 # Install packages
 
 apps=(
+  python
+  sqlite
   bash-completion2
-  bats
   battery
   coreutils
-  diff-so-fancy
-  dockutil
-  ffmpeg
-  fasd
-  gifsicle
   git
   git-extras
-  gnu-sed --with-default-names
   grep --with-default-names
-  hub
-  httpie
   imagemagick
   jq
-  lynx
-  mackup
-  nano
-  pandoc
-  peco
   psgrep
-  python
   shellcheck
   ssh-copy-id
-  tree
-  unar
   wget
   wifi-password
+  vim
+  yarn
+  qt@5.5
+  mysql
+  postgresql
+  elasticsearch
+  heroku
+  heroku-node
+  hub
+  redis
+  zsh
+  node
+  curl
 )
 
 brew install "${apps[@]}"
