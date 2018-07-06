@@ -15,13 +15,10 @@ apps=(
   atom-beta
   dash2
   dropbox
-  firefox
   font-fira-code
   iterm2
   slack
-  sourcetree
   spotify
-  sublime-text
   visual-studio-code
   vlc
 )
