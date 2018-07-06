@@ -21,10 +21,6 @@ apps=(
   git-extras
   grep --with-default-names
   imagemagick
-  jq
-  psgrep
-  shellcheck
-  ssh-copy-id
   wget
   wifi-password
   vim
