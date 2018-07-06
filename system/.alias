@@ -1,15 +1,13 @@
 # Shortcuts
 
 alias reload="source ~/.bash_profile"
-alias _="sudo"
+alias su="sudo"
 alias g="git"
 alias rr="rm -rf"
 
 # Default options
 
-alias rsync="rsync -vh"
 alias json="json -c"
-alias psgrep="psgrep -i"
 
 is-executable hub && eval "$(hub alias -s)" # alias git=hub
 
