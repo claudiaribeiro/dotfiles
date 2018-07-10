@@ -5,7 +5,6 @@ fi
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew tap Goles/battery
 brew update
 brew upgrade
 
@@ -15,7 +14,6 @@ apps=(
   python
   sqlite
   bash-completion2
-  battery
   coreutils
   git
   git-extras
@@ -30,7 +28,6 @@ apps=(
   postgresql
   elasticsearch
   heroku
-  heroku-node
   hub
   redis
   zsh
