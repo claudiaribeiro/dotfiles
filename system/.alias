@@ -59,6 +59,11 @@ alias nup="npm update"
 alias nri="rm -r node_modules && npm install"
 alias ncd="npm-check -su"
 
+# yarn
+
+alias y="yarn"
+alias ya="yarn add"
+
 # Network
 
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
@@ -73,7 +78,7 @@ unset METHOD
 
 # Miscellaneous
 
-alias hosts="sudo $EDITOR /etc/hosts"
+alias hosts="sudo atom-beta /etc/hosts"
 alias his="historie"
 alias quit="exit"
 alias week="date +%V"

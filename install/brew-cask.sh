@@ -10,10 +10,8 @@ brew tap caskroom/fonts
 # Install packages
 
 apps=(
-  google-chrome
   iterm2
   atom-beta
-  
   alfred
   dash2
   dropbox
@@ -26,6 +24,8 @@ apps=(
   telegram
   notion
   figma
+  skype
+  spectacle
 )
 
 brew cask install "${apps[@]}"

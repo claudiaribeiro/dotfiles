@@ -8,8 +8,8 @@ alias gg="$DOTFILES_GIT_GUI"
 
 alias cask="brew cask"
 
-alias chrome="open -a ~/Applications/Google\ Chrome.app"
-alias atom="open -a ~/Applications/Atom\ Beta.app"
+alias chrome="open -a /Applications/Google\ Chrome.app/"
+alias figma="open -a /Applications/Figma.app/"
 
 # Exclude macOS specific files in ZIP archives
 

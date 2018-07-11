@@ -33,6 +33,7 @@ apps=(
   zsh
   node
   curl
+  dockutil
 )
 
 brew install "${apps[@]}"
