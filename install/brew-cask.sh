@@ -26,6 +26,8 @@ apps=(
   figma
   skype
   spectacle
+  Grandperspective
+  rescuetime
 )
 
 brew cask install "${apps[@]}"
