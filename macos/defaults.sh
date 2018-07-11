@@ -1,4 +1,4 @@
-COMPUTER_NAME="Diogo"
+COMPUTER_NAME="diogo"
 
 osascript -e 'tell application "System Preferences" to quit'
 
