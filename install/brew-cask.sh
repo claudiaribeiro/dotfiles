@@ -28,6 +28,7 @@ apps=(
   spectacle
   Grandperspective
   rescuetime
+  tableplus
 )
 
 brew cask install "${apps[@]}"

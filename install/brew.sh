@@ -13,6 +13,7 @@ brew upgrade
 apps=(
   python
   sqlite
+  redis
   bash-completion2
   coreutils
   git
@@ -29,7 +30,6 @@ apps=(
   elasticsearch
   heroku
   hub
-  redis
   zsh
   node
   curl

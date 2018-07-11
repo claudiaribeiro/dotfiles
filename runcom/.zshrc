@@ -9,7 +9,7 @@ source $ZSH/oh-my-zsh.sh
  if [[ -n $SSH_CONNECTION ]]; then
    export EDITOR='atom-beta'
  else
-   export EDITOR='code'
+   export EDITOR='atom'
  fi
 
  export PATH="$HOME/.bin:$PATH"
@@ -17,6 +17,7 @@ source $ZSH/oh-my-zsh.sh
 
  alias zshconfig="atom-beta ~/.zshrc"
  alias ohmyzsh="atom-beta ~/.oh-my-zsh"
+ alias dotconfig="atom-beta ~/.dotfiles"
 
 # If not running interactively, don't do anything
 
