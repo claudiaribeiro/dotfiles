@@ -15,7 +15,7 @@ source $ZSH/oh-my-zsh.sh
  export PATH="$HOME/.bin:$PATH"
  test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
- alias zshconfig="atom-beta ~/.zshrc"
+ alias zshconfig="atom-beta ~/.dotfiles/runcom/.zshrc"
  alias ohmyzsh="atom-beta ~/.oh-my-zsh"
  alias dotconfig="atom-beta ~/.dotfiles"
 
