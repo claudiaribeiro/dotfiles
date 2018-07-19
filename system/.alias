@@ -1,6 +1,6 @@
 # Shortcuts
 
-alias reload="source ~/.bash_profile"
+alias reload="source ~/.zshrc"
 alias su="sudo"
 alias g="git"
 alias rr="rm -rf"
@@ -63,6 +63,13 @@ alias ncd="npm-check -su"
 
 alias y="yarn"
 alias ya="yarn add"
+alias ys="yarn run start"
+alias yr="yarn run"
+
+#  Rails
+
+alias s="./bin/server"
+
 
 # Network
 
