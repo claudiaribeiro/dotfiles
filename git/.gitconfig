@@ -1,13 +1,13 @@
 [user]
-  name = Diogo Ferreira
-  email = diogo.mart.ferreira@gmail.com
+  name = Claudia Ribeiro
+  email = ribeiro.claudiaf@gmail.com
 
 [github]
-  user = diogomartf
+  user = claudiaribeiro
 
 [core]
   excludesfile = ~/.gitignore_global
-  editor = atom-beta
+  editor = sublimetext
   filemode = false
   trustctime = false
   autocrlf = input

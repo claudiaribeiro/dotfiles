@@ -30,7 +30,6 @@ apps=(
   elasticsearch
   heroku
   hub
-  zsh
   node
   curl
   dockutil
