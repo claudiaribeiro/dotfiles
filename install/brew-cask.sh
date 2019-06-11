@@ -11,18 +11,10 @@ brew tap caskroom/fonts
 
 apps=(
   iterm2
-  atom-beta
   sublime-text-3
-  dropbox
   font-fira-code
-  slack
-  spotify
   visual-studio-code
-  vlc
-  telegram
-  notion
   skype
-  postman
 )
 
 brew cask install "${apps[@]}"

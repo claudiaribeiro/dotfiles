@@ -19,17 +19,11 @@ apps=(
   git
   git-extras
   grep --with-default-names
-  imagemagick
   wget
   wifi-password
   vim
   yarn
-  qt@5.5
   mysql
-  postgresql
-  elasticsearch
-  heroku
-  hub
   node
   curl
   dockutil

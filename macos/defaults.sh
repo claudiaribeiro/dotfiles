@@ -174,7 +174,7 @@ defaults write com.apple.finder FXInfoPanesExpanded -dict General -bool true Ope
 
 
 # Automatically hide and show the Dock
-defaults write com.apple.dock autohide -bool false
+defaults write com.apple.dock autohide -bool true
 
 ###############################################################################
 # Dashboard                                                                   #
